@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Ankasa App</h3>
   <p align="center">
-    <a href="https://github.com/preedok/FE-ANKASA"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RezaldhoArmadhani/FE-ANKASA"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://ankasa2023.vercel.app/">View Demo</a>
     ·
@@ -160,9 +160,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Ankasa`](https://github.com/preedok/ankasa-backend)
+:rocket: [`Backend Ankasa`](https://github.com/RezaldhoArmadhani/ankasa-backend)
 
-:rocket: [`Frontend Ankasa`](https://github.com/preedok/FE-ANKASA)
+:rocket: [`Frontend Ankasa`](https://github.com/RezaldhoArmadhani/FE-ANKASA)
 
 :rocket: [`Demo Ankasa`](https://ankasa2023.vercel.app/)
 
@@ -221,4 +221,4 @@ Contributions are what make the open source community such an amazing place to b
   </table>
 </center>
 
-Project Link: [https://github.com/preedok/FE-ANKASA](https://github.com/preedok/FE-ANKASA)
+Project Link: [https://github.com/RezaldhoArmadhani/FE-ANKASA](https://github.com/RezaldhoArmadhani/FE-ANKASA)
